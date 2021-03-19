@@ -12,6 +12,7 @@ Open index.html in Chrome
 
 ***
 ### __Screenshot__
+![Password Generator](https://user-images.githubusercontent.com/77814900/111713857-c6c70a80-8826-11eb-8235-af4f20f68c33.png)
 
 
 ***
