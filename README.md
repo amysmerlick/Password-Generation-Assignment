@@ -11,7 +11,7 @@ This app will run in the browser.
 
 ***
 ### __Screenshot__
-![Password Generator](https://user-images.githubusercontent.com/77814900/111086346-01ad0380-84f2-11eb-9d56-e30e0019e785.png)
+![Password Generator](https://user-images.githubusercontent.com/77814900/111717250-1230e700-882e-11eb-8253-b25cd873e6a7.png)
 
 ***
 ### __Credits__
