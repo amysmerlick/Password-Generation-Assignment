@@ -12,7 +12,7 @@ Open index.html in Chrome
 
 ***
 ### __Screenshot__
-![Live Portfolio](https://user-images.githubusercontent.com/77814900/111086346-01ad0380-84f2-11eb-9d56-e30e0019e785.png)
+
 
 ***
 ### __Credits__
