@@ -2,7 +2,7 @@
 
 # _**Introduction**_
 ***
-We have been assigned the task of modiying starter code in order to create a random password generator. This app features dynamically updated HTML and CSS powered by JavaScript code. The generator will ask you a series of questions of criteria required to create the password along with the desired length. It will tell you that it must be between 8 and 128 characters.This will generate a random password based off of your responses. 
+We have been assigned the task of modifying starter code in order to create a random password generator. This app features dynamically updated HTML and CSS powered by JavaScript code. The generator will ask you a series of questions of criteria required to create the password along with the desired length. It will tell you that it must be between 8 and 128 characters.This will generate a random password based off of your responses. 
 
 ***
 ### __Installation__
