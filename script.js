@@ -4,17 +4,20 @@
  var lowercase = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"];
  var numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
  var special = ["!", '"', "#", "$", "%", "&", "'", "(", ")", "*", "+", ",", "-", ".", "/", ":", ";", "<", "=", ">", "?", "@", "[", "]", "^", "_", "{", "|", "}", "~", "`"];
- var combinedarray = [];
- var password = "";
  
  
  function writePassword() {
    var password = generatePassword();
-   var passwordText = document.querySelector("#password");
-   passwordText.value = password; 
+   if (password !== undefined) {
+    var password.Text = document.querySelector("#password");
+   password.value = password; 
  }
+}
  
  function generatePassword(){
+  var combinedarray = [];
+  var password = "";
+
    var wantsLowercase = confirm ('Do you want lowercase?');
    console.log(wantsLowercase);
    if (wantsLowercase){
@@ -47,9 +50,9 @@
      window.alert ("It must contain a minimum of 8 and maximum of 128 characters.");  
    }
  
-   var finishpassword= "";
+   var finishpassword = "";
  
-   for(let i = 0; i < parseInt(passwordLength); i++) {
+   for(let i = 0; i < passwordLength; i++) {
      var randomchar = combinedarray[Math.floor(Math.random()*combinedarray.length)]
      finishpassword += randomchar    
    }

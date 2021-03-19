@@ -2,17 +2,16 @@
 
 # _**Introduction**_
 ***
-Penn LPS Coding Bootcamp has assigned us with the task of creating our very own portfolio that can showcase our progress over the next 24 weeks. This portfolio has been quite challenging, as we had to build code from scratch. I used the tools I learned from the first 2 weeks of class. This portfolio was built using CSS techniques. I look forward to expanding my portfolio over the course of this bootcamp to track my progress.
+We have been assigned the task of modiying starter code in order to create a random password generator. This app features dynamically updated HTML and CSS powered by JavaScript code. The generator will ask you a series of questions of criteria required to create the password along with the desired length. It will tell you that it must be between 8 and 128 characters.This will generate a random password based off of your responses. 
 
 ***
 ### __Installation__
 
-
-Open index.html in Chrome
+This app will run in the browser.
 
 ***
 ### __Screenshot__
-![Live Portfolio](https://user-images.githubusercontent.com/77814900/111086346-01ad0380-84f2-11eb-9d56-e30e0019e785.png)
+![Password Generator](https://user-images.githubusercontent.com/77814900/111086346-01ad0380-84f2-11eb-9d56-e30e0019e785.png)
 
 ***
 ### __Credits__
